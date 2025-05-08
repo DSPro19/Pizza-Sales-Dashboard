@@ -1,5 +1,5 @@
 # Pizza-Sales-Dashboard
-## Pizza Sales Dashboard using SQL &amp; Power BI — end-to-end analysis of sales performance, trends, and KPIs
+Pizza Sales Dashboard using SQL &amp; Power BI — end-to-end analysis of sales performance, trends, and KPIs
 ### 🍕 Pizza Sales Dashboard – SQL + Power BI
 A complete data analytics project where I used SQL to clean and analyze pizza sales data, then visualized key business metrics in Power BI.
 
