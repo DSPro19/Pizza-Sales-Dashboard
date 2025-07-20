@@ -1,5 +1,5 @@
 ## File 1- SQL Queries
-## File 4- Dashboard
+## File 3- Dashboard
 
 # Pizza-Sales-Dashboard
 Pizza Sales Dashboard using SQL &amp; Power BI — end-to-end analysis of sales performance, trends, and KPIs
